@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 max200 max200 4,0K фев 15 01:37 ./
+drwxr-x--- 16 max200 max200 4,0K фев 15 01:37 ../
+-rw-rw-r--  1 max200 max200  692 фев 15 01:36 config.txt
+-rw-rw-r--  1 max200 max200  421 фев 15 01:35 first.txt
+drwxrwxr-x  8 max200 max200 4,0K фев 15 01:37 .git/
+-rw-rw-r--  1 max200 max200    0 фев 15 01:37 ls.txt
+-rw-rw-r--  1 max200 max200   11 фев 15 01:28 README.md
+-rw-rw-r--  1 max200 max200  582 фев 15 01:35 status.txt
