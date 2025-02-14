@@ -11,4 +11,4 @@ file:.git/config	branch.main.merge=refs/heads/main
 file:.git/config	branch.first.remote=origin
 file:.git/config	branch.first.merge=refs/heads/first
 file:.git/config	user.name=Durrilka
-file:.git/config	user.email=maxim20_03@mail.ru
+file:.git/config	user.email=maxim20_03mail.ru
